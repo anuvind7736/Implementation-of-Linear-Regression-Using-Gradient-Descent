@@ -24,8 +24,8 @@ step 6 - Stop.
 ## Program:
 
 Program to implement the linear regression using gradient descent.
-Developed by: ROHIT R
-RegisterNumber:212223080045  
+Developed by: ANUVIND KRISHNA K
+RegisterNumber:212223080004
 
 python
 import numpy as np
